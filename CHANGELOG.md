@@ -8,6 +8,15 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## 2025.02.04
+
+### Added
+
+- Designed a StudentPackageLog component
+- Designed a DigitWallet component
+- Designed a AllergenDetector component
+
+
 ## [2024.12.30]
 
 - Added table-based rubrics to all 6 parts of the project
